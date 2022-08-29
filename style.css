@@ -1,0 +1,82 @@
+body{
+    font-family: 'Nunito', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+#span-precaution{
+    font-size: 60px;
+    color: salmon;
+}
+.font{
+    color:black;
+}
+.ordhek{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.ordhek img{
+    width: 100%;
+   
+}
+.top{
+    background-image: url("image/valorantbg2.png");
+    background-repeat: no-repeat;
+    background-position: 400px;
+    backface-visibility: hidden;
+}
+.button{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 7px;
+    background-image: linear-gradient(45deg,salmon,tomato);
+}
+section{
+    height: 700px;
+}
+.middle{
+    background-image: url("image/ionop.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.experience{
+    color: salmon;
+}
+h1{
+    margin-left: 50px;
+}
+.shadow{
+    margin-top: 60px;
+    box-shadow: 10px 10px 50px gray;
+    border-radius: 5px;
+    width: 40%;
+    height: 400px;
+    
+}
+#vct{
+    border-left: 10px solid;
+    border-image: linear-gradient( black, white);
+    border-image-slice: 1;
+}
+#major{
+    border-left: 10px solid;
+    border-image: linear-gradient(white, black);
+    border-image-slice: 1;
+}
+.bottom{
+    height: 450px;
+    background-image: url("image/vct.png");
+    background-repeat: no-repeat;
+    background-position: top;
+}
+#majorbg{
+    margin-top: 0px;
+    height: 500px;
+    background-image: url("image/major.png");
+    background-position: top;
+    background-repeat: no-repeat;
+}
