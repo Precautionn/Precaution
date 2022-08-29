@@ -22,7 +22,7 @@ h1{
    
 }
 .top{
-    background-image: url("image/valorantbg2.png");
+    background-image: url("valorantbg2.PNG");
     background-repeat: no-repeat;
     background-position: 400px;
     backface-visibility: hidden;
@@ -39,7 +39,7 @@ section{
     height: 700px;
 }
 .middle{
-    background-image: url("image/ionop.png");
+    background-image: url("ionop.PNG");
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -69,14 +69,14 @@ h1{
 }
 .bottom{
     height: 450px;
-    background-image: url("image/vct.png");
+    background-image: url("vct.PNG");
     background-repeat: no-repeat;
     background-position: top;
 }
 #majorbg{
     margin-top: 0px;
     height: 500px;
-    background-image: url("image/major.png");
+    background-image: url("major.PNG");
     background-position: top;
     background-repeat: no-repeat;
 }
